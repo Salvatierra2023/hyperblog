@@ -1,7 +1,7 @@
 Esta es la historia de un DevOps y tengo 28 anios 
 Ahora se reinvindico y quiere estudiar la carrera de ingeniera de sistemas 
-Master 1 a main 1
-
-Master 2 a main 2
-
+Master 1 a main 1 en experimento
+Experimento 1
+Experimento 2
+Experimento 3
 Y ser un buen profesional
